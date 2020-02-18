@@ -4,7 +4,7 @@ Procedural Generation of 3d environnement with Unity :
 
 
 Structure of the code :
-![Screenshot](Structure.png)
+![Image](Structure.png)
 Example of the parameters for the shape :
 ![Screenshot](Shape_Asset.png)
 Example of the parameters for th colors :
