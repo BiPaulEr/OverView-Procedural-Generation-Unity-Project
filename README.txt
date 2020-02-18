@@ -7,7 +7,7 @@ Structure of the code :
 ![GitHub Logo](./Structure.png)
 ![GitHub Logo](../Structure.png)
 ![GitHub Logo](Structure.png)
-![Image](https://github.com/BiPaulEr/OverView-Procedural-Generation-Unity-Project/Structure.png)
+![Image](https://github.com/BiPaulEr/OverView-Procedural-Generation-Unity-Project.git/Structure.png)
 Example of the parameters for the shape :
 ![Screenshot](Shape_Asset.png)
 Example of the parameters for th colors :
