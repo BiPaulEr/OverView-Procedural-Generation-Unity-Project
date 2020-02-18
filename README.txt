@@ -4,6 +4,10 @@ Procedural Generation of 3d environnement with Unity :
 
 
 Structure of the code :
+
+<p><img src="/Structure.png" alt="foo" title="title" /></p>
+
+
 ![GitHub Logo](./Structure.png ?raw=true)
 ![GitHub Logo](../Structure.png?raw=true)
 ![GitHub Logo](Structure.png?raw=true)
