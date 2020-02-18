@@ -4,10 +4,10 @@ Procedural Generation of 3d environnement with Unity :
 
 
 Structure of the code :
-![GitHub Logo](./Structure.png)
-![GitHub Logo](../Structure.png)
-![GitHub Logo](Structure.png)
-![Image](https://github.com/BiPaulEr/OverView-Procedural-Generation-Unity-Project.git/Structure.png)
+![GitHub Logo](./Structure.png ?raw=true)
+![GitHub Logo](../Structure.png?raw=true)
+![GitHub Logo](Structure.png?raw=true)
+![Image](https://github.com/BiPaulEr/OverView-Procedural-Generation-Unity-Project.git/Structure.png?raw=true)
 Example of the parameters for the shape :
 ![TEST](Shape_Asset.png)
 Example of the parameters for th colors :
